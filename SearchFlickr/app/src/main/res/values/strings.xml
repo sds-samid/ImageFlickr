@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SearchFlickr</string>
+    <string name="btn_search">Поиск</string>
+    <string name="edit_search">Введите текст для поиска</string>
+    <string name="flickr_key">96daefb0a1d721f76f1e46fc6f39e6e5</string>
+    <string name="flickr_secret">7bcbcd0cc16b7a71</string>
+    <string name="internet_error">Отсутсвует доступ к интернету. Включите интернет и повторите попытку снова</string>
+    <string name="search_text">Выполняется поиск</string>
+    <string name="error_search">По данному запросу ничего не найденно</string>
+</resources>
